@@ -1,4 +1,4 @@
-Time;Source;Destination;Length;Source Address;Destination Address;Source.1.fix;Destination.1.fix;Info;label
+Time;Source;Destination;Length;Source_Address;Destination_Address;Source.1.fix;Destination.1.fix;Info;label
 0.013709576;10.0.123.2;10.0.123.3;206;10.0.0.57;10.0.123.3,10.0.0.193;46:eb:74:23:8b:a6;26:96:7b:0c:42:81;1;0
 0.047629703;10.0.123.2;10.0.123.3;206;10.0.0.111;10.0.123.3,10.0.0.15;c6:48:a3:07:b9:5c;b6:a4:1b:fe:5b:9a;1;0
 0.05871227;10.0.123.2;10.0.123.3;206;10.0.0.161;10.0.123.3,10.0.0.53;2a:01:54:8a:f1:ff;32:32:25:81:d0:09;1;0
