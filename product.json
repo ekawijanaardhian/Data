@@ -1,0 +1,16 @@
+[
+{
+"id": "1",
+"name": "Laptop ASUS ROG",
+"description": "Gaming laptop with RTX 4070",
+"price": 25000000,
+"imageUrl": "https://example.com/laptop.jpg"
+},
+{
+"id": "2",
+"name": "Mechanical Keyboard",
+"description": "RGB mechanical keyboard",
+"price": 1500000,
+"imageUrl": "https://example.com/keyboard.jpg"
+}
+]
