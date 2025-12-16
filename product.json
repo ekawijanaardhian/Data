@@ -12,5 +12,13 @@
 "description": "RGB mechanical keyboard",
 "price": 1500000,
 "imageUrl": "https://example.com/keyboard.jpg"
+},
+{
+"id": "2",
+"name": "Optical Moused Wireless",
+"description": "Moused Wireless for ease of use",
+"price": 750000,
+"imageUrl": "https://example.com/keyboard.jpg"
 }
 ]
+
