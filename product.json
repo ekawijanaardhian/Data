@@ -2,7 +2,37 @@
 {
 "id": "1",
 "name": "Laptop ASUS ROG",
-"description": "Gaming laptop with RTX 4070",
+"description": "Performa tinggi untuk gaming, editing, dan kerja berat.
+
+Spesifikasi Utama:
+
+Prosesor Intel Core i7 / AMD Ryzen 7
+
+GPU NVIDIA GeForce RTX Series
+
+RAM 16GB (Upgradable)
+
+SSD NVMe 512GB / 1TB
+
+Layar 15.6”–16” FHD/QHD, 144Hz–165Hz
+
+Windows 11 Original
+
+Keunggulan:
+
+Performa kencang & stabil
+
+Sistem pendingin ROG Intelligent Cooling
+
+Keyboard RGB Aura Sync
+
+Desain premium & kokoh
+
+Cocok untuk:
+Gaming, editing, desain grafis, programming
+
+📦 Garansi resmi ASUS | Produk original
+📩 Chat untuk varian & stok",
 "price": 25000000,
 "imageUrl": "https://raw.githubusercontent.com/ekawijanaardhian/Data/a76798f000242dc087e7c12a41d31415f09ebc8a/laptoprog.jpg"
 },
@@ -21,6 +51,7 @@
 "imageUrl": "https://raw.githubusercontent.com/ekawijanaardhian/Data/a76798f000242dc087e7c12a41d31415f09ebc8a/moused.jpg"
 }
 ]
+
 
 
 
