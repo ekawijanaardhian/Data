@@ -4,7 +4,7 @@
 "name": "Laptop ASUS ROG",
 "description": "Gaming laptop with RTX 4070",
 "price": 25000000,
-"imageUrl": "https://example.com/laptop.jpg"
+"imageUrl": "https://raw.githubusercontent.com/ekawijanaardhian/Data/a76798f000242dc087e7c12a41d31415f09ebc8a/laptoprog.jpg"
 },
 {
 "id": "2",
@@ -18,9 +18,10 @@
 "name": "Optical Moused Wireless",
 "description": "Moused Wireless for ease of use",
 "price": 750000,
-"imageUrl": "https://example.com/keyboard.jpg"
+"imageUrl": "https://raw.githubusercontent.com/ekawijanaardhian/Data/a76798f000242dc087e7c12a41d31415f09ebc8a/moused.jpg"
 }
 ]
+
 
 
 
