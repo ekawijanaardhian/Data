@@ -11,7 +11,7 @@
 "name": "Mechanical Keyboard",
 "description": "RGB mechanical keyboard",
 "price": 1500000,
-"imageUrl": "https://example.com/keyboard.jpg"
+"imageUrl": "https://github.com/ekawijanaardhian/Data/keyboard.jpg"
 },
 {
 "id": "2",
@@ -21,4 +21,5 @@
 "imageUrl": "https://example.com/keyboard.jpg"
 }
 ]
+
 
