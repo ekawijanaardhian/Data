@@ -4,20 +4,24 @@
     "name": "Laptop ASUS ROG",
     "description": "Performa tinggi untuk gaming, editing, dan kerja berat.\n\nSpesifikasi Utama:\n\nProsesor Intel Core i7 / AMD Ryzen 7\n\nGPU NVIDIA GeForce RTX Series\n\nRAM 16GB (Upgradable)\n\nSSD NVMe 512GB / 1TB\n\nLayar 15.6”–16” FHD/QHD, 144Hz–165Hz\n\nWindows 11 Original\n\nKeunggulan:\n\nPerforma kencang & stabil\n\nSistem pendingin ROG Intelligent Cooling\n\nKeyboard RGB Aura Sync\n\nDesain premium & kokoh\n\nCocok untuk:\nGaming, editing, desain grafis, programming\n\n📦 Garansi resmi ASUS | Produk original\n📩 Chat untuk varian & stok",
     "price": 25000000,
-    "imageUrl": "https://raw.githubusercontent.com/ekawijanaardhian/Data/a76798f000242dc087e7c12a41d31415f09ebc8a/laptoprog.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/ekawijanaardhian/Data/a76798f000242dc087e7c12a41d31415f09ebc8a/laptoprog.jpg",
+    "category": "Elektronik"
   },
   {
     "id": "2",
     "name": "Mechanical Keyboard",
     "description": "RGB mechanical keyboard",
     "price": 1500000,
-    "imageUrl": "https://raw.githubusercontent.com/ekawijanaardhian/Data/8dcbf2f00aada8c9a9637e97215814535e8f32d9/keyboard.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/ekawijanaardhian/Data/8dcbf2f00aada8c9a9637e97215814535e8f32d9/keyboard.jpg",
+    "category": "Elektronik"
   },
   {
     "id": "3",
     "name": "Wireless Optical Mouse",
     "description": "Mouse optik nirkabel untuk kemudahan penggunaan",
     "price": 750000,
-    "imageUrl": "https://raw.githubusercontent.com/ekawijanaardhian/Data/a76798f000242dc087e7c12a41d31415f09ebc8a/moused.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/ekawijanaardhian/Data/a76798f000242dc087e7c12a41d31415f09ebc8a/moused.jpg",
+    "category": "Elektronik"
   }
 ]
+
